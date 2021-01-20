@@ -19,11 +19,11 @@ function Partner() {
                                 Massoterapia, Depilação, Cortes em geral, Nails desing, Águas Lindas de Goiás.</span>
                             </div>
                             <div>
-                                <a href="https://api.whatsapp.com/send?phone=5561991348802" className="ptn-ctt" target="_blank">
+                                <a href="https://api.whatsapp.com/send?phone=5561991348802" className="ptn-ctt" target="_blank" rel="noreferrer">
                                     <Whats /> (61) 99134-8802</a>
                             </div>
                             <div>
-                                <a href="https://www.instagram.com/studio_vanessacunha/" className="ptn-ctt" target="_blank">
+                                <a href="https://www.instagram.com/studio_vanessacunha/" className="ptn-ctt" target="_blank" rel="noreferrer">
                                     <Insta /> @studio_vanessacunha</a>
                             </div>
                             
@@ -42,11 +42,11 @@ function Partner() {
                                 qualidade e naturalidade, Curso alongamento de unhas, Águas Lindas de Goiás</span>
                             </div>
                             <div>
-                                <a href="https://api.whatsapp.com/send?phone=5561994195702" className="ptn-ctt" target="_blank">
+                                <a href="https://api.whatsapp.com/send?phone=5561994195702" className="ptn-ctt" target="_blank" rel="noreferrer">
                                     <Whats /> (61) 994195702</a>
                             </div>
                             <div>
-                                <a href="https://www.instagram.com/jeniffer.rodrigue.designers/" className="ptn-ctt" target="_blank">
+                                <a href="https://www.instagram.com/jeniffer.rodrigue.designers/" className="ptn-ctt" target="_blank" rel="noreferrer">
                                     <Insta /> @jeniffer.rodrigue.designers</a>
                             </div>
                         </div>

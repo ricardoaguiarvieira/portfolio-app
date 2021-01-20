@@ -1,14 +1,15 @@
 
 .home-nav {
-    height: 600px !important;
+    /* height: 600px !important; */
     padding-top: 20px;
-    margin-left: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
     text-align: center;
 }
 
 .home-profile {
     height: 32vmin;
-    width: 100%;
+    width: 32vmin;
     pointer-events: none;
     border-radius: 50%;
 }
@@ -19,13 +20,13 @@
 
 .gn-menu {
     padding-left: 0%;
-    margin-top: 15%;
+    margin-top: 15px;
     list-style: none; 
     text-align: center;
 }
 
 .gn-menu li{
-    font-size: 20px;
+    font-size: 21px;
     width: 100%;
     text-align: center;
     text-transform: none;
@@ -40,7 +41,7 @@
 }
 
 .gn-menu li a{
-    padding: 1.3em 1.9em;
+    padding: 1.0em;
     display: block;
     color: var(--primary-color);
 } 
