@@ -1,0 +1,90 @@
+
+.home-nav {
+    height: 600px !important;
+    padding-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.home-profile {
+    height: 32vmin;
+    width: 100%;
+    pointer-events: none;
+    border-radius: 50%;
+}
+.Home-graf {
+    width: 95%;
+    pointer-events: none;
+}
+
+.gn-menu {
+    padding-left: 0%;
+    margin-top: 15%;
+    list-style: none; 
+    text-align: center;
+}
+
+.gn-menu li{
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    text-transform: none;
+    border-radius: 5%;
+    margin-left: 0px;
+}
+
+.gn-menu li:hover{
+    background: var(--primary-color);
+    transition: 0.5s;
+    text-decoration: none !important;
+}
+
+.gn-menu li a{
+    padding: 1.3em 1.9em;
+    display: block;
+    color: var(--primary-color);
+} 
+.gn-menu li a:hover{
+    transition: 0.5s;
+    color: white !important;
+} 
+.conteiner{
+      padding-top: 40px; 
+} 
+.conteiner p{
+    font-size: 20px;
+    text-indent:4em;
+    text-align: justify;
+}
+.conteiner span{
+    font-size: 20px;
+}
+
+.ptn li{
+    padding-top: 30px;
+    width: 100%;
+    list-style: none; 
+    text-transform: none;
+}
+
+.ptn li a{
+    color: var(--primary-color);
+}
+.ptn li a:hover{
+    color: #007bff;
+}
+
+.ptn header{
+    display: flex;
+    align-items: center;
+}
+.ptn h3{
+    padding-left: 5px;
+}
+
+.ptn img{
+    height: 10vmin;
+    width: 10vmin;
+    pointer-events: none;
+    border-radius: 50%;
+}

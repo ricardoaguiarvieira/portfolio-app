@@ -1,0 +1,10 @@
+
+div.row.justify-content-center{
+    margin: 0;
+    height: 50px;
+    color: white;
+    display: flexbox;
+    align-items: center;
+    text-align: center !important;
+    background-color: var(--primary-color);
+ }
