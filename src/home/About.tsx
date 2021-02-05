@@ -15,13 +15,38 @@ function About() {
                 <h2>Digital influence(Blogueira)</h2>
                 <br/>
                 <p>
-                  Olá meu nome é Tatiane Rodrigues, tenho 17 anos nasci em 
-                  Brasília distrito Federal. Atualmente 
-                  trabalho com Instagram como digital influênce há pouco
-                  tempo, por volta de 1 ano. Moro em Águas Lindas de Goiás, Venho fazendo alguns 
-                  trabalhos(divulgação, parcerias, patrocínio, Sorteios, Dicas e 
-                  etc).
+                  Olá meu nome é Tatiane Rodrigues, conhecida como Taty na cidade onde 
+                  moro e nas redes sociais, nasci no Distrito Federal mais atualmente vivo 
+                  em Águas Lindas(GO). Sempre fui uma pessoa super comunicativa gosto de dar 
+                  boas dicas e compartilhar meu dia a dia, por isso entrei nesse mundo de influenciadora digital.
                 </p>
+                <p>
+                  Meu instablog tem 2 anos, nova nesse mundo digital mais isso não importa o mais importante 
+                  para mim é poder ser verdadeira, transparente e influenciar as pessoas do meu jeito, cada pessoa 
+                  é única e isso é uma coisa que deve ser mostrada.
+                </p>
+                <p>
+                  Influenciar as pessoas a jamais desistir daquilo que elas realmente quer fazer, todos tem um 
+                  sonho e se correr atrás todos alcança.
+                </p>
+              </div>
+              <div className="abt-ctt">
+                <h2>Publicidade</h2>
+                <h5>Faço visita no estabelecimento</h5>
+                <ul>
+                  <li>
+                    <span>Provador  </span>
+                  </li>
+                  <li>
+                    <span>Fotografias</span>
+                  </li>
+                  <li>
+                    <span>Mostro produtos</span>
+                  </li>
+                  <li>
+                    <span>Faço divulgações</span>
+                  </li>
+                </ul>
               </div>
               <div className="abt-ctt">
                 <h2 >Competências e conhecimentos</h2>
@@ -29,16 +54,13 @@ function About() {
               </div>
               <div className="abt-ctt">
                 <p>
-                  Tenho uma assessoria de comunicação para
-                  empresas(lojas), tirarem suas dúvidas de como fechar
-                  parcerias, no momento estou trabalhando somente com
-                  Instagram, pretendo trabalhar em outras áreas mais nunca
-                  deixar de ser uma digital. 
+                  Assessoria de comunicação para fechar parcerias,me conhecer mais e conhecer meus trabalhos,divulgações,
+                  Patrocínio,sorteios Qualquer dúvida podem entrar em contato comigo!
                 </p>
               </div>
               <div className="abt-ftr">
-                  <strong><span>Conte comigo com o que precisar! </span></strong>
-                  <br/>
+                  <strong><span>Desde já Agradeço ❤️ </span></strong>
+                  <span>(Contatos abaixo)</span>
               </div>
             </div>
             <br/>
