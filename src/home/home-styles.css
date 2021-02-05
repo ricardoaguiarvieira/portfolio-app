@@ -6,16 +6,25 @@
     margin-right: 25px;
     text-align: center;
 }
-
+.bod-ctt{
+    padding-top: 20px;
+}
+.abt-ftr{
+    padding-bottom: 20px;
+}
 .home-profile {
     height: 32vmin;
     width: 32vmin;
     pointer-events: none;
-    border-radius: 50%;
+    /* border-radius: 50%; */
 }
 .Home-graf {
     width: 95%;
     pointer-events: none;
+}
+
+.gn-scroller{
+    padding-top: 20px;
 }
 
 .gn-menu {
@@ -23,6 +32,13 @@
     margin-top: 15px;
     list-style: none; 
     text-align: center;
+}
+
+.pf-menu {
+    padding-left: 3%;
+    margin-top: 15px;
+    list-style: none; 
+    text-align: left;
 }
 
 .gn-menu li{
@@ -43,18 +59,19 @@
 .gn-menu li a{
     padding: 1.0em;
     display: block;
-    color: var(--primary-color);
+    color: black;
 } 
 .gn-menu li a:hover{
     transition: 0.5s;
     color: white !important;
 } 
-.conteiner{
+.abt-ctt{
       padding-top: 40px; 
+      padding-left: 20px;
 } 
 .conteiner p{
     font-size: 20px;
-    text-indent:4em;
+    text-indent:2em;
     text-align: justify;
 }
 .conteiner span{
@@ -69,7 +86,7 @@
 }
 
 .ptn li a{
-    color: var(--primary-color);
+    color: black;
 }
 .ptn li a:hover{
     color: #007bff;
@@ -88,4 +105,42 @@
     width: 10vmin;
     pointer-events: none;
     border-radius: 50%;
+}
+
+.pf-menu-name{
+    font-family: 'Lobster two', cursive;
+    font-size: 32px;
+}
+
+/* About */
+.abt-txt{
+    padding-left: 220px;
+}
+
+/* Details */
+
+.dtl-vlr{
+    color: gray;
+}
+.dtl-grp{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.dtl-img{
+    height: 50vmin;
+    width: 80vmin;
+    pointer-events: none;
+    padding-top: 50px;
+}
+
+/* Home */
+.hm-ctt{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.hm-img{
+    height: 300px;
+    width: 250px;
+    pointer-events: none;
+    padding: 5px;
 }

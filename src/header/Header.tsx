@@ -5,9 +5,9 @@ function Header() {
     return (
         <div className="row justify-content-center">
             <div className="col">
-                <h2>
-                    <strong> Tatiane Rodrigues</strong>
-                </h2>
+                <h1>
+                    Tatiane Rodrigues
+                </h1>
             </div>
         </div>
     );

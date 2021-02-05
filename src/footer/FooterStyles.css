@@ -2,7 +2,7 @@
     padding: 20px;
     align-items: center;
     text-align: center;
-    background-color: var(--primary-color);
+    background-color: rgba(4, 2, 7, 0.74);
     color: rgb(201, 193, 193);
 }
 .footer-bar a{
