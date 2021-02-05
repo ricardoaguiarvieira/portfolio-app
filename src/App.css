@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster+Two:ital@1&display=swap');
 
 :root{
-    --primary-color: rgba(39, 20, 36, 0.87);
+    --primary-color: rgba(202, 57, 188, 0.87);
 }
 
 div.row{
@@ -13,5 +14,5 @@ a{
 
 body {
     font-family: 'Open Sans', sans-serif !important;
-    color: var(--primary-color) !important;
+    /* color: var(--primary-color) !important; */
 }

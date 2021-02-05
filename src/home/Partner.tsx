@@ -5,7 +5,11 @@ import  Jeniffer  from "./img/jeniffer.jpeg";
 function Partner() {
     return(
         <div>
-            <h1><strong>Parcerias</strong></h1>
+            <div className='col-md-12'>
+                <div className='dtl-ttl'>
+                    <h1>Nossas Parcerias</h1>
+                </div>
+            </div>
             <ul className="ptn">
                 <li>
                     <div className="row">
@@ -56,9 +60,7 @@ function Partner() {
             <br />
             <br />
             <strong><span >Para Parcerias entre em contato por qualquer umas das minhas redes sociais.</span></strong>
-            <br />
-            <br />
-            <br />
+            
         </div>
     )
 }
