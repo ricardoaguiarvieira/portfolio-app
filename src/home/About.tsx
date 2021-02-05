@@ -54,8 +54,8 @@ function About() {
               </div>
               <div className="abt-ctt">
                 <p>
-                  Assessoria de comunicação para fechar parcerias,me conhecer mais e conhecer meus trabalhos,divulgações,
-                  Patrocínio,sorteios Qualquer dúvida podem entrar em contato comigo!
+                  Assessoria de comunicação para fechar parcerias, me conhecer mais e conhecer meus trabalhos, divulgações, 
+                  Patrocínio, sorteios. Qualquer dúvida podem entrar em contato comigo!
                 </p>
               </div>
               <div className="abt-ftr">
